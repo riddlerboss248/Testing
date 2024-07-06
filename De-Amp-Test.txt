@@ -28,3 +28,4 @@
 ||adobomagazine-com.cdn.ampproject.org^$document,redirect=nooptext
 ||advisorsmith-com.cdn.ampproject.org^$document,redirect=nooptext
 ||aceh-tribunnews-com.cdn.ampproject.org^$document,redirect=nooptext
+||apkpure.com/*/amp$document,redirect=nooptext
